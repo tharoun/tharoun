@@ -52,6 +52,8 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 - Feature engineering, Logistic Regression, Decision Tree, Random Forest, Bagging, XGBoost
 - Class imbalance handling via **SMOTE** resampling; model evaluation & scorecard construction
 
+---
+
 ### 📉 Probability of Default (PD) Modeling — *RiskMDP Advisory*
 - Segmentation: feature engineering, logistic regression, scorecard construction
 - Calibration: Long-Run Average (LRA) estimation and Margin of Conservatism (MoC) quantification
