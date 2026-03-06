@@ -12,9 +12,8 @@
 
 ## 👤 About Me
 
-I'm a **quantitative Data Analyst & Scientist** with a strong background in statistical modeling, data pipeline engineering, and credit risk modeling. Holding a **Master's in Applied Econometrics & Statistics** from the University of Orléans (France) and an engineering degree from **ENSAE Dakar**, I combine rigorous analytical thinking with a passion for building reliable, production-ready data solutions.
+I'm a **quantitative Data Analyst & Scientist** with a strong background in statistical modeling, data pipeline engineering, and credit risk modeling. Holding a **Master's in Applied Econometrics & Statistics** from the University of Orléans (France) and an engineering degree from **ENSAE Dakar**, I combine rigorous analytical thinking with a passion for building reliable, production-ready data  & AI solutions.
 
-Currently available for a **permanent position (CDI)** in Data & AI.
 
 ---
 
