@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst & Scientist | Quantitative Modeler | MSc Applied Econometrics & Statistics</h3>
 
 <p align="center">
-  <a href="mailto:tharouna90@gmail.com"><img src="https://img.shields.io/badge/Email-tharouna90%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#a4d0ccc5d6cbd1cac59d94e4c3c9c5cdc88ac7cbc9"><img src="https://img.shields.io/badge/Email-tharouna90%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/t6h7"><img src="https://img.shields.io/badge/LinkedIn-Harouna%20Traore-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/tharoun"><img src="https://img.shields.io/badge/GitHub-tharoun-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-I'm a **quantitative Data Analyst & Scientist** with a strong background in statistical modeling, data pipeline engineering, and credit risk modeling. Holding a **Master's in Applied Econometrics & Statistics** from the University of Orléans (France) and an engineering degree from **ENSAE Dakar**, I combine rigorous analytical thinking with a passion for building reliable, production-ready data  & AI solutions.
+I'm a **quantitative Data Analyst & Scientist** with a strong background in statistical modeling, data pipeline engineering, and credit risk modeling. Holding a **Master's in Applied Econometrics & Statistics** from the University of Orléans (France) and an engineering degree from **ENSAE Dakar**, I combine rigorous analytical thinking with a passion for building reliable, production-ready data solutions.
 
 
 ---
@@ -47,6 +47,35 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 
 ## 🚀 Projects
 
+### 🌍 African Countries GNI Per Capita Animation *(Public — GitHub)*
+🔗 [github.com/tharoun/African-Countries-GNI-Per-Capita-Animation](https://github.com/tharoun/African-Countries-GNI-Per-Capita-Animation)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=flat-square)](https://matplotlib.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+- Animated **bar chart race** showing the evolution of the top 10 African countries by GNI per capita (1960–2024)
+- Features country flags, **World Bank income classification thresholds**, and smooth year-by-year transitions
+- Outputs available as **MP4 video**, HTML animation, or GIF
+- Data sourced from **World Bank World Development Indicators** (Atlas method)
+- **Stack:** Python · Matplotlib · Pandas · Pillow · FFmpeg
+
+---
+
+### 🗄️ WDI Data Pipeline *(Public — GitHub)*
+🔗 [github.com/tharoun/wdi-data-pipeline](https://github.com/tharoun/wdi-data-pipeline)
+
+[![R](https://img.shields.io/badge/R-4.0%2B-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+- Automated pipeline to download the full **World Bank WDI dataset** via API and load it into a **PostgreSQL database**
+- Creates 6 structured tables: data, country, series, footnotes, and relationship tables
+- Handles data cleaning, column standardization, schema management, and connection lifecycle
+- **Stack:** R · WDI · RPostgres · DBI · tidyverse · PostgreSQL
+
+---
+
 ### 📊 Credit Scoring Model — *MSc ESA Project*
 - Feature engineering, Logistic Regression, Decision Tree, Random Forest, Bagging, XGBoost
 - Class imbalance handling via **SMOTE** resampling; model evaluation & scorecard construction
@@ -55,10 +84,15 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 - Segmentation: feature engineering, logistic regression, scorecard construction
 - Calibration: Long-Run Average (LRA) estimation and Margin of Conservatism (MoC) quantification
 
-### 🦠 COVID-19 Dashboard — Burkina Faso *(Personal Project, 2020)*
-🔗 [covid226.shinyapps.io/Covid19-dashboard](https://covid226.shinyapps.io/Covid19-dashboard/)
-- Built a data collection and processing pipeline for COVID-19 KPIs
-- Created an **interactive dashboard** with choropleth mapping and epidemic trend visualizations
+### 🦠 COVID-19 Dashboard — Burkina Faso *(Public — GitHub)*
+🔗 [github.com/tharoun/covid-2019-dashboard](https://github.com/tharoun/covid-2019-dashboard) · 🌐 [Live Demo](https://covid226.shinyapps.io/Covid19-dashboard/)
+
+[![R](https://img.shields.io/badge/R%2FShiny-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+
+- Interactive dashboard to monitor the evolution of **COVID-19 in Burkina Faso**
+- Built a data collection and processing pipeline to generate key epidemic indicators
+- Features **choropleth mapping** and trend visualizations of case evolution
+- **Stack:** R · Shiny · ShinyApps.io
 
 ---
 
@@ -111,5 +145,4 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 
 <p align="center">
   <i>Open to opportunities in Data Analytics, Data Science, and Quantitative Risk Modeling.</i><br/>
-  <b>📬 tharouna90@gmail.com · (+33) 7 49 96 25 65</b>
-</p>
+  <b>📬 <a href="/
