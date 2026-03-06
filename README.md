@@ -120,7 +120,7 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 | Degree | Institution | Period |
 |--------|-------------|--------|
 | MSc Applied Econometrics & Statistics (ESA) | University of Orléans, France | 2021 – 2023 |
-| Engineer in Statistical Works (ITS) | ENSAE Dakar, Senegal | 2017 – 2021 |
+| Ingénieur des Travaux Statistqiues (ITS) | ENSAE Dakar, Senegal | 2017 – 2021 |
 
 ---
 
