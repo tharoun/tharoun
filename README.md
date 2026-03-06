@@ -47,6 +47,15 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 
 ## 🚀 Projects
 
+
+### 📊 Credit Scoring Model — *MSc ESA Project*
+- Feature engineering, Logistic Regression, Decision Tree, Random Forest, Bagging, XGBoost
+- Class imbalance handling via **SMOTE** resampling; model evaluation & scorecard construction
+
+### 📉 Probability of Default (PD) Modeling — *RiskMDP Advisory*
+- Segmentation: feature engineering, logistic regression, scorecard construction
+- Calibration: Long-Run Average (LRA) estimation and Margin of Conservatism (MoC) quantification
+---
 ### 🌍 African Countries GNI Per Capita Animation *(Public — GitHub)*
 🔗 [github.com/tharoun/African-Countries-GNI-Per-Capita-Animation](https://github.com/tharoun/African-Countries-GNI-Per-Capita-Animation)
 
@@ -73,17 +82,7 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 - Creates 6 structured tables: data, country, series, footnotes, and relationship tables
 - Handles data cleaning, column standardization, schema management, and connection lifecycle
 - **Stack:** R · WDI · RPostgres · DBI · tidyverse · PostgreSQL
-
 ---
-
-### 📊 Credit Scoring Model — *MSc ESA Project*
-- Feature engineering, Logistic Regression, Decision Tree, Random Forest, Bagging, XGBoost
-- Class imbalance handling via **SMOTE** resampling; model evaluation & scorecard construction
-
-### 📉 Probability of Default (PD) Modeling — *RiskMDP Advisory*
-- Segmentation: feature engineering, logistic regression, scorecard construction
-- Calibration: Long-Run Average (LRA) estimation and Margin of Conservatism (MoC) quantification
-
 ### 🦠 COVID-19 Dashboard — Burkina Faso *(Public — GitHub)*
 🔗 [github.com/tharoun/covid-2019-dashboard](https://github.com/tharoun/covid-2019-dashboard) · 🌐 [Live Demo](https://covid226.shinyapps.io/Covid19-dashboard/)
 
