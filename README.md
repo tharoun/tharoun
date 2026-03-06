@@ -55,7 +55,9 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 ### 📉 Probability of Default (PD) Modeling — *RiskMDP Advisory*
 - Segmentation: feature engineering, logistic regression, scorecard construction
 - Calibration: Long-Run Average (LRA) estimation and Margin of Conservatism (MoC) quantification
+  
 ---
+
 ### 🌍 African Countries GNI Per Capita Animation *(Public — GitHub)*
 🔗 [github.com/tharoun/African-Countries-GNI-Per-Capita-Animation](https://github.com/tharoun/African-Countries-GNI-Per-Capita-Animation)
 
