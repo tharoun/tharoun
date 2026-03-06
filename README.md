@@ -28,7 +28,6 @@ I'm a **quantitative Data Analyst & Scientist** with a strong background in stat
 - Migrated SAS codebases to **Python** to industrialize analytical processes; documented business rules and processes
 - Leveraged data to produce analytical and thematic reports for internal teams and institutional partners
 - Delivered targeted training sessions on data tools, dashboards, and analytics (internal & partners)
-- Developed and used **AI tools (LLM/Claude & SAC AI)**: product classification, code generation, queries, and visualizations
 - **Stack:** Python · Dagster · R/Shiny · SQL · SAS · Power BI · SAP Analytics Cloud
 
 ---
